@@ -1,0 +1,1 @@
+function somar(o,r){return o+r}module.exports=somar,console.log(comar(10,10));
